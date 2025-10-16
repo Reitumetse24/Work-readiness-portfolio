@@ -32,7 +32,7 @@ Strong communication skills are essential for teamwork, leadership, and maintain
 - 🗂 [Formal Report Example](link-to-file)
 - 🗣 [Presentation Slides or Recording](link-to-file)
 
-## Reflection
+## ✨ Reflection
 
 **Situation:**  
 During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.
@@ -66,7 +66,7 @@ Through various exercises, I learned how to present myself confidently and respo
 - 🗂 [STAR Method Examples](link-to-file)
 - 🎥 [Interview Practice Recording or Feedback](link-to-file)
 
-## Reflection
+## ✨ Reflection
 
 **Situation:**  
 In the Interview Skills training, I participated in multiple mock interview exercises to prepare for real-world job interviews.
@@ -98,7 +98,7 @@ This section covers my participation in a simulated interview session designed t
 - 📝 [Feedback Form or Evaluation Report](link-to-file)
 - 🔍 [Self-Evaluation Form](link-to-file)
 
-## Reflection
+## ✨ Reflection
 
 **Situation:**  
 I took part in a simulated interview session with my instructor acting as a hiring manager.
@@ -132,7 +132,7 @@ Building meaningful professional relationships allows for collaboration, mentors
 - 📷 [Screenshot of LinkedIn Connections or Endorsements](link-to-image)
 - 🗓 [Summary of Networking Event or Workshop](link-to-file)
 
-## Reflection
+## ✨ Reflection
 
 **Situation:**  
 As part of the Professional Networking module, I was required to create and enhance my LinkedIn profile and engage with industry professionals online.
@@ -166,7 +166,7 @@ Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 - 📊 [Teamwork or Collaboration Exercise Summary](link-to-file)
 - 🧭 [Ethical Dilemma Reflection Worksheet](link-to-file)
 
-## Reflection
+## ✨ Reflection
 
 **Situation:**  
 During the Workplace Etiquette training, we explored professional behavior, ethics, and collaboration in team environments.
