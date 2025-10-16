@@ -5,13 +5,13 @@
 ### 👩‍🎓 Student Information
 **Name:** Reitumetse Modise  
 **Student Number:** 222910038  
-**Course:** Communication networking  
+**Course:** Communications network  
 
 
 ---
 
 
-#### About This Portfolio
+#### About this portfolio
 A digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
 
 #### Purpose
