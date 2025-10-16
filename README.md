@@ -36,11 +36,14 @@ Strong communication skills are essential for teamwork, leadership, and maintain
 
 **Situation:**  
 During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.
+
 **Task:**  
 My goal was to communicate a project update clearly and professionally, ensuring the message was concise, respectful, and well-formatted for a business environment.
+
 **Action:**  
 I applied the principles of formal communication by organizing my email logically, using appropriate salutations, and ensuring correct grammar and tone.  
 I also practiced verbal communication through group discussions, focusing on clarity and active listening.
+
 **Result:**  
 As a result, my communication became more confident and effective. I received positive feedback from my peers and facilitator for professionalism and tone.  
 This experience strengthened my ability to write and speak in a clear, structured, and respectful manner suitable for the workplace.
@@ -64,13 +67,17 @@ Through various exercises, I learned how to present myself confidently and respo
 - 🎥 [Interview Practice Recording or Feedback](link-to-file)
 
 ## Reflection
+
 **Situation:**  
 In the Interview Skills training, I participated in multiple mock interview exercises to prepare for real-world job interviews.
+
 **Task:**  
 I needed to demonstrate confidence, communicate my skills clearly, and provide structured answers to typical behavioral questions using the STAR method.
+
 **Action:**  
 I researched the company and role, prepared my responses, and practiced delivering answers using examples from my academic and project experiences.  
 I also improved my non-verbal communication through eye contact, posture, and body language.
+
 **Result:**  
 I was able to answer questions more naturally and confidently. My facilitator noted significant improvement in my communication and self-presentation skills.  
 I now feel more prepared and composed when facing real interview situations.
@@ -95,11 +102,14 @@ This section covers my participation in a simulated interview session designed t
 
 **Situation:**  
 I took part in a simulated interview session with my instructor acting as a hiring manager.
+
 **Task:**  
 The objective was to apply the interview skills I had learned and demonstrate professionalism, confidence, and effective communication under real interview conditions.
+
 **Action:**  
 I dressed appropriately, arrived on time, and introduced myself professionally.  
 I used the STAR method to respond to competency-based questions and maintained good eye contact, tone, and body language throughout the session.
+
 **Result:**  
 The interview went smoothly, and I received positive feedback on my preparation, articulation, and confidence.  
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
@@ -123,13 +133,17 @@ Building meaningful professional relationships allows for collaboration, mentors
 - 🗓 [Summary of Networking Event or Workshop](link-to-file)
 
 ## Reflection
+
 **Situation:**  
 As part of the Professional Networking module, I was required to create and enhance my LinkedIn profile and engage with industry professionals online.
+
 **Task:**  
 My goal was to establish a credible professional online presence and connect with individuals in my field of interest to expand my career network.
+
 **Action:**  
 I created a detailed LinkedIn profile highlighting my education, skills, and projects.  
 I joined relevant industry groups, interacted with posts, and reached out to professionals to build meaningful connections.
+
 **Result:**  
 I successfully connected with several professionals and received engagement on my profile posts.  
 This experience taught me the value of maintaining a positive digital footprint and how networking can open doors to mentorship and career opportunities.
@@ -153,13 +167,17 @@ Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 - 🧭 [Ethical Dilemma Reflection Worksheet](link-to-file)
 
 ## Reflection
+
 **Situation:**  
 During the Workplace Etiquette training, we explored professional behavior, ethics, and collaboration in team environments.
+
 **Task:**  
 I was assigned to work in a small group to complete a team-based activity while demonstrating professionalism, respect, and accountability.
+
 **Action:**  
 I practiced punctuality, listened actively to team members, and ensured tasks were completed on time.  
 When disagreements arose, I helped mediate by encouraging open communication and mutual understanding.
+
 **Result:**  
 Our team successfully completed the task, and the facilitator praised our professionalism and teamwork.  
 This experience reinforced the importance of maintaining respect, accountability, and integrity in the workplace to create a positive and productive environment.
