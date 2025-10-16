@@ -15,7 +15,7 @@ The purpose of this portfolio is to:
 - Provide tangible evidence of my ability to communicate, collaborate, and conduct myself professionally.
 
 ---
-# 💬 Business Communication
+## 💬 Business Communication
 
 ## Overview
 This section highlights my understanding and application of effective business communication in professional settings.  
