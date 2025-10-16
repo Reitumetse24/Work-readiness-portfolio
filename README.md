@@ -1,6 +1,6 @@
-# 💼 Work Readiness Portfolio of Evidence
+# Work Readiness Portfolio
 
----
+
 
 ### 👩‍🎓 Student Information
 **Name:** Reitumetse Modise  
@@ -22,30 +22,19 @@ The purpose of this portfolio is to:
 
 ---
 
-#### 📖 Description
-This digital portfolio serves as a **Portfolio of Evidence (PoE)** for my **Work Readiness Training**.    
-All sections demonstrate practical learning and personal reflection across five key areas:
-
-1. 💬 Business Communication  
-2. 🎤 Interview Skills  
-3. 🧑‍💼 Mock Interview  
-4. 🌍 Professional Networking  
-5. 🏢 Workplace Etiquette  
----
-
 ## 1. 💬 Business Communication
 
-## Overview
+### Overview
 This section highlights my understanding and application of effective business communication in professional settings.  
 Strong communication skills are essential for teamwork, leadership, and maintaining productive workplace relationships.
 
-## Key Learning Outcomes
+### Key Learning Outcomes
 - Understanding the principles of professional written and verbal communication  
 - Developing active listening and feedback techniques  
 - Applying proper email, report, and presentation etiquette  
 - Recognizing the importance of non-verbal communication  
 
-## Activities and Evidence
+### Activities and Evidence
 - 📄 [Sample Business Email](link-to-file-or-screenshot)
 - 🗂 [Formal Report Example](link-to-file)
 - 🗣 [Presentation Slides or Recording](link-to-file)
@@ -66,17 +55,17 @@ This experience strengthened my ability to write and speak in a clear, structure
 ---
 ## 2. 🎤 Interview Skills
 
-## Overview
+### Overview
 This section demonstrates my preparation and development of professional interview skills.  
 Through various exercises, I learned how to present myself confidently and respond effectively to interview questions.
 
-## Key Learning Outcomes
+### Key Learning Outcomes
 - Using the **STAR method** to answer behavioral questions  
 - Researching companies and aligning answers with organizational values  
 - Understanding appropriate interview attire and body language  
 - Preparing thoughtful questions for the interviewer  
 
-## Activities and Evidence
+### Activities and Evidence
 - 💬 [List of Practice Interview Questions and Answers](link-to-file)
 - 🗂 [STAR Method Examples](link-to-file)
 - 🎥 [Interview Practice Recording or Feedback](link-to-file)
@@ -97,15 +86,15 @@ I now feel more prepared and composed when facing real interview situations.
 ---
 ## 3. 🧑‍💼 Mock Interview
 
-## Overview
+### Overview
 This section covers my participation in a simulated interview session designed to test my interview readiness and professional communication.
 
-## Key Learning Outcomes
+### Key Learning Outcomes
 - Applying interview skills in a real-time scenario  
 - Managing stress and maintaining composure under pressure  
 - Demonstrating self-awareness and professionalism during feedback sessions  
 
-## Activities and Evidence
+### Activities and Evidence
 - 📹 [Mock Interview Video or Transcript](link-to-file)
 - 📝 [Feedback Form or Evaluation Report](link-to-file)
 - 🔍 [Self-Evaluation Form](link-to-file)
@@ -126,17 +115,17 @@ The experience helped me identify areas for improvement — such as providing mo
 ---
 ## 4. 🌍 Professional Networking
 
-## Overview
+### Overview
 This section highlights my understanding of professional networking and its role in career development.  
 Building meaningful professional relationships allows for collaboration, mentorship, and access to new opportunities.
 
-## Key Learning Outcomes
+### Key Learning Outcomes
 - Developing and maintaining a **LinkedIn profile**  
 - Understanding the importance of professional branding  
 - Learning networking etiquette and how to approach professionals online or in person  
 - Participating in professional events or online forums  
 
-## Activities and Evidence
+### Activities and Evidence
 - 🔗 [Link to My LinkedIn Profile](your-linkedin-url)
 - 📷 [Screenshot of LinkedIn Connections or Endorsements](link-to-image)
 - 🗓 [Summary of Networking Event or Workshop](link-to-file)
@@ -157,17 +146,17 @@ This experience taught me the value of maintaining a positive digital footprint 
 ---
 ## 🏢 5. Workplace Etiquette
 
-## Overview
+### Overview
 This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace.  
 Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 
-## Key Learning Outcomes
+### Key Learning Outcomes
 - Demonstrating punctuality, accountability, and respect for others  
 - Following organizational rules and dress codes  
 - Managing conflict professionally and ethically  
 - Maintaining confidentiality and integrity  
 
-## Activities and Evidence
+### Activities and Evidence
 - 📄 [Case Study on Workplace Conduct](link-to-file)
 - 📊 [Teamwork or Collaboration Exercise Summary](link-to-file)
 - 🧭 [Ethical Dilemma Reflection Worksheet](link-to-file)
