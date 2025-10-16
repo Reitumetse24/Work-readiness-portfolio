@@ -1,8 +1,18 @@
-# Work-readiness-portfolio
-A digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
+# 💼 Work Readiness Portfolio of Evidence
+
+---
+
+### 👩‍🎓 Student Information
+**Name:** Reitumetse Modise  
+**Student Number:** 222910038  
+**Course:** Communication networking  
+
+
+---
+
 
 #### About This Portfolio
-This repository contains structured evidence of my learning and progress across key areas of employability and professionalism. Each section includes examples, reflections, and supporting materials that showcase my readiness to enter the workforce with confidence and competence.
+A digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
 
 #### Purpose
 The purpose of this portfolio is to:
@@ -11,6 +21,19 @@ The purpose of this portfolio is to:
 - Provide tangible evidence of my ability to communicate, collaborate, and conduct myself professionally.
 
 ---
+
+#### 📖 Description
+This digital portfolio serves as a **Portfolio of Evidence (PoE)** for my **Work Readiness Training**.  
+It showcases the key skills, competencies, and professional behaviors I developed to prepare for the workplace.  
+All sections demonstrate practical learning and personal reflection across five key areas:
+
+1. 💬 Business Communication  
+2. 🎤 Interview Skills  
+3. 🧑‍💼 Mock Interview  
+4. 🌍 Professional Networking  
+5. 🏢 Workplace Etiquette  
+---
+
 ## 💬 Business Communication
 
 ## Overview
@@ -31,15 +54,12 @@ Strong communication skills are essential for teamwork, leadership, and maintain
 ### ✨ Reflection
 
 **Situation:**  
-During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.
-
+During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.</br>
 **Task:**  
-My goal was to communicate a project update clearly and professionally, ensuring the message was concise, respectful, and well-formatted for a business environment.
-
+My goal was to communicate a project update clearly and professionally, ensuring the message was concise, respectful, and well-formatted for a business environment.</br>
 **Action:**  
 I applied the principles of formal communication by organizing my email logically, using appropriate salutations, and ensuring correct grammar and tone.  
-I also practiced verbal communication through group discussions, focusing on clarity and active listening.
-
+I also practiced verbal communication through group discussions, focusing on clarity and active listening.</br>
 **Result:**  
 As a result, my communication became more confident and effective. I received positive feedback from my peers and facilitator for professionalism and tone.  
 This experience strengthened my ability to write and speak in a clear, structured, and respectful manner suitable for the workplace.
@@ -65,15 +85,12 @@ Through various exercises, I learned how to present myself confidently and respo
 ### ✨ Reflection
 
 **Situation:**  
-In the Interview Skills training, I participated in multiple mock interview exercises to prepare for real-world job interviews.
-
+In the Interview Skills training, I participated in multiple mock interview exercises to prepare for real-world job interviews.</br>
 **Task:**  
-I needed to demonstrate confidence, communicate my skills clearly, and provide structured answers to typical behavioral questions using the STAR method.
-
+I needed to demonstrate confidence, communicate my skills clearly, and provide structured answers to typical behavioral questions using the STAR method.</br>
 **Action:**  
 I researched the company and role, prepared my responses, and practiced delivering answers using examples from my academic and project experiences.  
-I also improved my non-verbal communication through eye contact, posture, and body language.
-
+I also improved my non-verbal communication through eye contact, posture, and body language.</br>
 **Result:**  
 I was able to answer questions more naturally and confidently. My facilitator noted significant improvement in my communication and self-presentation skills.  
 I now feel more prepared and composed when facing real interview situations.
@@ -97,15 +114,12 @@ This section covers my participation in a simulated interview session designed t
 ### ✨ Reflection
 
 **Situation:**  
-I took part in a simulated interview session with my instructor acting as a hiring manager.
-
+I took part in a simulated interview session with my instructor acting as a hiring manager.</br>
 **Task:**  
-The objective was to apply the interview skills I had learned and demonstrate professionalism, confidence, and effective communication under real interview conditions.
-
+The objective was to apply the interview skills I had learned and demonstrate professionalism, confidence, and effective communication under real interview conditions.</br>
 **Action:**  
 I dressed appropriately, arrived on time, and introduced myself professionally.  
-I used the STAR method to respond to competency-based questions and maintained good eye contact, tone, and body language throughout the session.
-
+I used the STAR method to respond to competency-based questions and maintained good eye contact, tone, and body language throughout the session.</br>
 **Result:**  
 The interview went smoothly, and I received positive feedback on my preparation, articulation, and confidence.  
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
@@ -131,15 +145,12 @@ Building meaningful professional relationships allows for collaboration, mentors
 ### ✨ Reflection
 
 **Situation:**  
-As part of the Professional Networking module, I was required to create and enhance my LinkedIn profile and engage with industry professionals online.
-
+As part of the Professional Networking module, I was required to create and enhance my LinkedIn profile and engage with industry professionals online.</br>
 **Task:**  
-My goal was to establish a credible professional online presence and connect with individuals in my field of interest to expand my career network.
-
+My goal was to establish a credible professional online presence and connect with individuals in my field of interest to expand my career network.</br>
 **Action:**  
 I created a detailed LinkedIn profile highlighting my education, skills, and projects.  
-I joined relevant industry groups, interacted with posts, and reached out to professionals to build meaningful connections.
-
+I joined relevant industry groups, interacted with posts, and reached out to professionals to build meaningful connections.</br>
 **Result:**  
 I successfully connected with several professionals and received engagement on my profile posts.  
 This experience taught me the value of maintaining a positive digital footprint and how networking can open doors to mentorship and career opportunities.
@@ -165,15 +176,12 @@ Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 ### ✨ Reflection
 
 **Situation:**  
-During the Workplace Etiquette training, we explored professional behavior, ethics, and collaboration in team environments.
-
+During the Workplace Etiquette training, we explored professional behavior, ethics, and collaboration in team environments.</br>
 **Task:**  
-I was assigned to work in a small group to complete a team-based activity while demonstrating professionalism, respect, and accountability.
-
+I was assigned to work in a small group to complete a team-based activity while demonstrating professionalism, respect, and accountability.</br>
 **Action:**  
 I practiced punctuality, listened actively to team members, and ensured tasks were completed on time.  
-When disagreements arose, I helped mediate by encouraging open communication and mutual understanding.
-
+When disagreements arose, I helped mediate by encouraging open communication and mutual understanding.</br>
 **Result:**  
 Our team successfully completed the task, and the facilitator praised our professionalism and teamwork.  
 This experience reinforced the importance of maintaining respect, accountability, and integrity in the workplace to create a positive and productive environment.
