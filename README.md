@@ -15,7 +15,7 @@ The purpose of this portfolio is to:
 - Provide tangible evidence of my ability to communicate, collaborate, and conduct myself professionally.
 
 ---
-# Business Communication
+# 💬 Business Communication
 
 ## Overview
 This section highlights my understanding and application of effective business communication in professional settings.  
@@ -49,7 +49,7 @@ As a result, my communication became more confident and effective. I received po
 This experience strengthened my ability to write and speak in a clear, structured, and respectful manner suitable for the workplace.
 
 ---
-# Interview Skills
+# 🎤 Interview Skills
 
 ## Overview
 This section demonstrates my preparation and development of professional interview skills.  
@@ -83,7 +83,7 @@ I was able to answer questions more naturally and confidently. My facilitator no
 I now feel more prepared and composed when facing real interview situations.
 
 ---
-# Mock Interview
+# 🧑‍💼 Mock Interview
 
 ## Overview
 This section covers my participation in a simulated interview session designed to test my interview readiness and professional communication.
@@ -115,7 +115,7 @@ The interview went smoothly, and I received positive feedback on my preparation,
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
 
 ---
-# Professional Networking
+# 🌍 Professional Networking
 
 ## Overview
 This section highlights my understanding of professional networking and its role in career development.  
@@ -149,7 +149,7 @@ I successfully connected with several professionals and received engagement on m
 This experience taught me the value of maintaining a positive digital footprint and how networking can open doors to mentorship and career opportunities.
 
 ---
-# Workplace Etiquette
+# 🏢 Workplace Etiquette
 
 ## Overview
 This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace.  
