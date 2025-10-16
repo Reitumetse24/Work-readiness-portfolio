@@ -12,7 +12,7 @@
 
 
 #### About this portfolio
-A digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
+This is a digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
 
 #### Purpose
 The purpose of this portfolio is to:
@@ -23,8 +23,7 @@ The purpose of this portfolio is to:
 ---
 
 #### 📖 Description
-This digital portfolio serves as a **Portfolio of Evidence (PoE)** for my **Work Readiness Training**.  
-It showcases the key skills, competencies, and professional behaviors I developed to prepare for the workplace.  
+This digital portfolio serves as a **Portfolio of Evidence (PoE)** for my **Work Readiness Training**.    
 All sections demonstrate practical learning and personal reflection across five key areas:
 
 1. 💬 Business Communication  
@@ -34,7 +33,7 @@ All sections demonstrate practical learning and personal reflection across five 
 5. 🏢 Workplace Etiquette  
 ---
 
-## 💬 Business Communication
+## 1. 💬 Business Communication
 
 ## Overview
 This section highlights my understanding and application of effective business communication in professional settings.  
@@ -65,7 +64,7 @@ As a result, my communication became more confident and effective. I received po
 This experience strengthened my ability to write and speak in a clear, structured, and respectful manner suitable for the workplace.
 
 ---
-## 🎤 Interview Skills
+## 2. 🎤 Interview Skills
 
 ## Overview
 This section demonstrates my preparation and development of professional interview skills.  
@@ -96,7 +95,7 @@ I was able to answer questions more naturally and confidently. My facilitator no
 I now feel more prepared and composed when facing real interview situations.
 
 ---
-## 🧑‍💼 Mock Interview
+## 3. 🧑‍💼 Mock Interview
 
 ## Overview
 This section covers my participation in a simulated interview session designed to test my interview readiness and professional communication.
@@ -125,7 +124,7 @@ The interview went smoothly, and I received positive feedback on my preparation,
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
 
 ---
-## 🌍 Professional Networking
+## 4. 🌍 Professional Networking
 
 ## Overview
 This section highlights my understanding of professional networking and its role in career development.  
@@ -156,7 +155,7 @@ I successfully connected with several professionals and received engagement on m
 This experience taught me the value of maintaining a positive digital footprint and how networking can open doors to mentorship and career opportunities.
 
 ---
-## 🏢 Workplace Etiquette
+## 🏢 5. Workplace Etiquette
 
 ## Overview
 This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace.  
