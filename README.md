@@ -1,14 +1,10 @@
 # Work-readiness-portfolio
 A digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
-# Work Readiness Portfolio of Evidence
 
-Welcome to my **Work Readiness Training Portfolio of Evidence**, created as part of my professional development journey.  
-This digital portfolio demonstrates the skills, knowledge, and competencies I have developed to prepare for the modern workplace.
-
-## About This Portfolio
+#### About This Portfolio
 This repository contains structured evidence of my learning and progress across key areas of employability and professionalism. Each section includes examples, reflections, and supporting materials that showcase my readiness to enter the workforce with confidence and competence.
 
-## Purpose
+#### Purpose
 The purpose of this portfolio is to:
 - Showcase my employability and work readiness skills.
 - Reflect on personal growth and areas for improvement.
@@ -32,7 +28,7 @@ Strong communication skills are essential for teamwork, leadership, and maintain
 - 🗂 [Formal Report Example](link-to-file)
 - 🗣 [Presentation Slides or Recording](link-to-file)
 
-## ✨ Reflection
+### ✨ Reflection
 
 **Situation:**  
 During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.
@@ -49,7 +45,7 @@ As a result, my communication became more confident and effective. I received po
 This experience strengthened my ability to write and speak in a clear, structured, and respectful manner suitable for the workplace.
 
 ---
-# 🎤 Interview Skills
+## 🎤 Interview Skills
 
 ## Overview
 This section demonstrates my preparation and development of professional interview skills.  
@@ -66,7 +62,7 @@ Through various exercises, I learned how to present myself confidently and respo
 - 🗂 [STAR Method Examples](link-to-file)
 - 🎥 [Interview Practice Recording or Feedback](link-to-file)
 
-## ✨ Reflection
+### ✨ Reflection
 
 **Situation:**  
 In the Interview Skills training, I participated in multiple mock interview exercises to prepare for real-world job interviews.
@@ -83,7 +79,7 @@ I was able to answer questions more naturally and confidently. My facilitator no
 I now feel more prepared and composed when facing real interview situations.
 
 ---
-# 🧑‍💼 Mock Interview
+## 🧑‍💼 Mock Interview
 
 ## Overview
 This section covers my participation in a simulated interview session designed to test my interview readiness and professional communication.
@@ -98,7 +94,7 @@ This section covers my participation in a simulated interview session designed t
 - 📝 [Feedback Form or Evaluation Report](link-to-file)
 - 🔍 [Self-Evaluation Form](link-to-file)
 
-## ✨ Reflection
+### ✨ Reflection
 
 **Situation:**  
 I took part in a simulated interview session with my instructor acting as a hiring manager.
@@ -115,7 +111,7 @@ The interview went smoothly, and I received positive feedback on my preparation,
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
 
 ---
-# 🌍 Professional Networking
+## 🌍 Professional Networking
 
 ## Overview
 This section highlights my understanding of professional networking and its role in career development.  
@@ -132,7 +128,7 @@ Building meaningful professional relationships allows for collaboration, mentors
 - 📷 [Screenshot of LinkedIn Connections or Endorsements](link-to-image)
 - 🗓 [Summary of Networking Event or Workshop](link-to-file)
 
-## ✨ Reflection
+### ✨ Reflection
 
 **Situation:**  
 As part of the Professional Networking module, I was required to create and enhance my LinkedIn profile and engage with industry professionals online.
@@ -149,7 +145,7 @@ I successfully connected with several professionals and received engagement on m
 This experience taught me the value of maintaining a positive digital footprint and how networking can open doors to mentorship and career opportunities.
 
 ---
-# 🏢 Workplace Etiquette
+## 🏢 Workplace Etiquette
 
 ## Overview
 This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace.  
@@ -166,7 +162,7 @@ Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 - 📊 [Teamwork or Collaboration Exercise Summary](link-to-file)
 - 🧭 [Ethical Dilemma Reflection Worksheet](link-to-file)
 
-## ✨ Reflection
+### ✨ Reflection
 
 **Situation:**  
 During the Workplace Etiquette training, we explored professional behavior, ethics, and collaboration in team environments.
