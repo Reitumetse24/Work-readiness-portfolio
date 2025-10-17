@@ -35,6 +35,7 @@ Strong communication skills are essential for teamwork, leadership, and maintain
 - Recognizing the importance of non-verbal communication  
 
 ### Activities and Evidence
+<img src="./Business_communication.jpg" alt="Business_communication" width="150"/>
 - 📄 [Sample Business Email](link-to-file-or-screenshot)
 - 🗂 [Formal Report Example](link-to-file)
 - 🗣 [Presentation Slides or Recording](link-to-file)
@@ -66,6 +67,7 @@ Through various exercises, I learned how to present myself confidently and respo
 - Preparing thoughtful questions for the interviewer  
 
 ### Activities and Evidence
+<img src="./Interview_skills.jpg" alt="Interview_skills" width="150"/>
 - 💬 [List of Practice Interview Questions and Answers](link-to-file)
 - 🗂 [STAR Method Examples](link-to-file)
 - 🎥 [Interview Practice Recording or Feedback](link-to-file)
@@ -126,6 +128,7 @@ Building meaningful professional relationships allows for collaboration, mentors
 - Participating in professional events or online forums  
 
 ### Activities and Evidence
+<img src="./Professional_networking.jpg" alt="Professional_networking" width="150"/>
 - 🔗 [Link to My LinkedIn Profile](your-linkedin-url)
 - 📷 [Screenshot of LinkedIn Connections or Endorsements](link-to-image)
 - 🗓 [Summary of Networking Event or Workshop](link-to-file)
@@ -157,6 +160,7 @@ Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 - Maintaining confidentiality and integrity  
 
 ### Activities and Evidence
+<img src="./Workplace_etiquette.jpg" alt="Workplace_etiquette" width="150"/>
 - 📄 [Case Study on Workplace Conduct](link-to-file)
 - 📊 [Teamwork or Collaboration Exercise Summary](link-to-file)
 - 🧭 [Ethical Dilemma Reflection Worksheet](link-to-file)
