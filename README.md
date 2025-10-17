@@ -12,7 +12,7 @@
 
 
 #### About this portfolio
-This is a digital portfolio of evidence showcasing my Work Readiness Training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
+This is a digital portfolio of evidence showcasing my work readiness training. It includes key competencies such as business communication, interview preparation, professional networking, and workplace etiquette, supported by reflections and practical examples.
 
 #### Purpose
 The purpose of this portfolio is to:
@@ -37,7 +37,7 @@ This section highlights my understanding and application of effective business c
 #### ✨ Reflection
 
 **Situation:**  
-During the Business Communication module, I was tasked with preparing a professional email and formal report for a simulated company scenario.</br>
+During this, I was tasked with preparing a professional email and formal report for a simulated company scenario.</br>
 **Task:**  
 My goal was to communicate a project update clearly and professionally, ensuring the message was concise, respectful, and well-formatted for a business environment.</br>
 **Action:**  
@@ -50,8 +50,7 @@ This experience strengthened my ability to write and speak in a clear, structure
 ---
 ## 2. 🎤 Interview Skills
 
-This section demonstrates my preparation and development of professional interview skills.  
-Through various exercises, I learned how to present myself confidently and respond effectively to interview questions.
+This section demonstrates my preparation and development of professional interview skills. Through various exercises, I learned how to present myself confidently and respond effectively to interview questions.
 
 #### Key Learning Outcomes
 - Using the **STAR method** to answer behavioral questions  
@@ -87,21 +86,20 @@ This section covers my participation in a simulated interview session designed t
 #### ✨ Reflection
 
 **Situation:**  
-I took part in a simulated interview session with my instructor acting as a hiring manager.</br>
+I did a mock interview video.</br>
 **Task:**  
 The objective was to apply the interview skills I had learned and demonstrate professionalism, confidence, and effective communication under real interview conditions.</br>
 **Action:**  
-I dressed appropriately, arrived on time, and introduced myself professionally.  
+I dressed appropriately and introduced myself professionally.  
 I used the STAR method to respond to competency-based questions and maintained good eye contact, tone, and body language throughout the session.</br>
 **Result:**  
-The interview went smoothly, and I received positive feedback on my preparation, articulation, and confidence.  
+The mock interview video went smoothly. 
 The experience helped me identify areas for improvement — such as providing more concise examples — and reinforced my readiness for future professional interviews.
 
 ---
 ## 4. 🌍 Professional Networking
 
-This section highlights my understanding of professional networking and its role in career development.  
-Building meaningful professional relationships allows for collaboration, mentorship, and access to new opportunities.
+This section highlights my understanding of professional networking and its role in career development. Building meaningful professional relationships allows for collaboration, mentorship, and access to new opportunities.
 
 #### Key Learning Outcomes
 - Developing and maintaining a **LinkedIn profile**  
@@ -110,6 +108,7 @@ Building meaningful professional relationships allows for collaboration, mentors
 - Participating in professional events or online forums
   
 <img src="./Professional_networking.jpg" alt="Professional_networking" width="150"/>
+<img src="./Professional_networking1.jpg" alt="Professional_networking1" width="150"/>
 
 #### ✨ Reflection
 
@@ -127,8 +126,7 @@ This experience taught me the value of maintaining a positive digital footprint 
 ---
 ## 🏢 5. Workplace Etiquette
 
-This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace.  
-Workplace etiquette ensures harmony, respect, and productivity among colleagues.
+This section outlines my understanding of appropriate behavior, ethics, and professionalism in the workplace. Workplace etiquette ensures harmony, respect, and productivity among colleagues.
 
 #### Key Learning Outcomes
 - Demonstrating punctuality, accountability, and respect for others  
