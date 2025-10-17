@@ -84,7 +84,7 @@ This section covers my participation in a simulated interview session designed t
 - Demonstrating self-awareness and professionalism during feedback sessions  
 
 
-[▶️ Watch Mock Interview Video](../videos/mock-interview.mp4)
+[▶️ Watch Mock Interview Video](../mock-interview.mp4)
 
 #### ✨ Reflection
 
