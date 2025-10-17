@@ -83,6 +83,9 @@ This section covers my participation in a simulated interview session designed t
 - Managing stress and maintaining composure under pressure  
 - Demonstrating self-awareness and professionalism during feedback sessions  
 
+
+[▶️ Watch Mock Interview Video](../videos/mock-interview.mp4)
+
 #### ✨ Reflection
 
 **Situation:**  
