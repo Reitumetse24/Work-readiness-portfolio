@@ -108,8 +108,10 @@ This section highlights my understanding of professional networking and its role
 - Participating in professional events or online forums
   
 <p float="left">
+<img src="./professional_networking2.jpg" alt="professional_networking2" width="395"/>
 <img src="./Professional_networking.jpg" alt="Professional_networking" width="150"/>
 <img src="./professional_networking1.jpg" alt="professional_networking1" width="221"/>
+</p>
 
 #### ✨ Reflection
 
