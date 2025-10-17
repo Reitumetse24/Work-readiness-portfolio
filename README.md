@@ -24,9 +24,7 @@ The purpose of this portfolio is to:
 
 ## 1. 💬 Business Communication
 
-### Overview
-This section highlights my understanding and application of effective business communication in professional settings.  
-Strong communication skills are essential for teamwork, leadership, and maintaining productive workplace relationships.
+This section highlights my understanding and application of effective business communication in professional settings. Strong communication skills are essential for teamwork, leadership, and maintaining productive workplace relationships.
 
 ### Key Learning Outcomes
 - Understanding the principles of professional written and verbal communication  
