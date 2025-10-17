@@ -107,8 +107,9 @@ This section highlights my understanding of professional networking and its role
 - Learning networking etiquette and how to approach professionals online or in person  
 - Participating in professional events or online forums
   
+<p float="left">
 <img src="./Professional_networking.jpg" alt="Professional_networking" width="150"/>
-<img src="./Professional_networking1.jpg" alt="Professional_networking1" width="150"/>
+<img src="./professional_networking1.jpg" alt="professional_networking1" width="221"/>
 
 #### ✨ Reflection
 
