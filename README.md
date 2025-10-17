@@ -5,7 +5,7 @@
 ### 👩‍🎓 Student Information
 **Name:** Reitumetse Modise  
 **Student Number:** 222910038  
-**Course:** Communications network  
+**Course:** Communication networking  
 
 
 ---
